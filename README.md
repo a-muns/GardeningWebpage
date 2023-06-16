@@ -13,4 +13,3 @@ Codepen located at: https://codepen.io/RalexM/pen/dyzrdRQ
 ### Mobile
 ![Web view](https://github.com/a-muns/GardeningWebpage/blob/33dd0db29d0308e3b6a5470667412a983c8c6d03/photos/MobileProjects.jpg)
 ### Tablet
-![Web view](https://github.com/a-muns/GardeningWebpage/blob/33dd0db29d0308e3b6a5470667412a983c8c6d03/photos/TabletProjects.jpg)
