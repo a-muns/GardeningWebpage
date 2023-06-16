@@ -5,7 +5,7 @@ A responsive webpage crafted for a small gardening business. Features breakpoint
 Codepen located at: https://codepen.io/RalexM/pen/dyzrdRQ
 <br>Sample page hosted on CodePen: https://codepen.io/RalexM/full/dyzrdRQ
 
-<em>Created from scratch with HTML, CSS and JavaScript. Jotform used for form control for client's ease of management.</em>
+<em>Created from scratch with HTML and CSS. Jotform used for form control for client's ease of management.</em>
 
 ![Desktop view](https://github.com/a-muns/GardeningWebpage/blob/33dd0db29d0308e3b6a5470667412a983c8c6d03/photos/WebMain.jpg)
 
