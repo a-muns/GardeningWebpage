@@ -7,9 +7,10 @@ Codepen located at: https://codepen.io/RalexM/pen/dyzrdRQ
 
 <em>Created from scratch with HTML, CSS and JavaScript. Jotform used for form control for client's ease of management.</em>
 
-![Web view](https://github.com/a-muns/GardeningWebpage/blob/33dd0db29d0308e3b6a5470667412a983c8c6d03/photos/WebMain.jpg)
+![Desktop view](https://github.com/a-muns/GardeningWebpage/blob/33dd0db29d0308e3b6a5470667412a983c8c6d03/photos/WebMain.jpg)
 
 ## Responsive Image Grid
 ### Mobile
-![Web view](https://github.com/a-muns/GardeningWebpage/blob/33dd0db29d0308e3b6a5470667412a983c8c6d03/photos/MobileProjects.jpg)
+![Projects grid on mobile](https://github.com/a-muns/GardeningWebpage/blob/33dd0db29d0308e3b6a5470667412a983c8c6d03/photos/MobileProjects.jpg)
 ### Tablet
+![Projects grid on tablet](https://github.com/a-muns/GardeningWebpage/blob/10448c7364917ee736b00b7b5fce61508573c33a/photos/TabletProjects.jpg)
